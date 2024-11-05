@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH"
+      crossorigin="anonymous"
+    />
+    <link rel="stylesheet" href="./css/reset.css" />
+    <link rel="stylesheet" href="./css/style.css" />
+    <title>Dashboard</title>
+  </head>
+  <body>
+    <nav>
+      <input class="menu-btn" type="checkbox" id="menu-btn" />
+      <label class="menu-icon" for="menu-btn"
+        ><span class="navicon"></span
+      ></label>
+
+      <ul class="menu">
+        <li>
+          <a id="home" href="#">Inicio</a>
+        </li>
+        <li>
+          <a id="consulta_1" href="#">Consulta 1</a>
+        </li>
+        <li><a id="consulta_2" href="#">Consulta 2</a></li>
+        <li><a id="consulta_3" href="#">Consulta 3</a></li>
+        <li><a id="consulta_4" href="#">Consulta 4</a></li>
+        <li><a id="consulta_5" href="#">Consulta 5</a></li>
+        <li><a id="consulta_6" href="#">Consulta 6</a></li>
+        <li><a id="consulta_7" href="#">Consulta 7</a></li>
+        <li><a id="consulta_8" href="#">Consulta 8</a></li>
+      </ul>
+    </nav>
+
+    <header><h1>DASHBOARD</h1></header>
+
+    <main></main>
+    <footer>&#64;2024</footer>
+    <div
+      class="modal fade"
+      id="availabilityModal"
+      tabindex="-1"
+      aria-labelledby="availabilityModalLabel"
+      aria-hidden="true"
+    >
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div class="modal-header">
+            <h5 class="modal-title" id="availabilityModalLabel">
+              Disponibilidad
+            </h5>
+            <button
+              type="button"
+              class="btn-close"
+              data-bs-dismiss="modal"
+              aria-label="Close"
+            ></button>
+          </div>
+          <div class="modal-body">
+            <p><strong>Capacidad:</strong> <span id="modalCapacidad"></span></p>
+            <p>
+              <strong>Entradas Vendidas:</strong>
+              <span id="modalEntradasVendidas"></span>
+            </p>
+            <p>
+              <strong>Disponibilidad:</strong> <span id="modalHayLugar"></span>
+            </p>
+          </div>
+          <div class="modal-footer">
+            <button
+              type="button"
+              class="btn btn-secondary"
+              data-bs-dismiss="modal"
+            >
+              Cerrar
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <script
+      src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"
+      integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz"
+      crossorigin="anonymous"
+    ></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="js/main.js"></script>
+  </body>
+</html>
