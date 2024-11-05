@@ -1,0 +1,154 @@
+﻿{
+   "CodeGenerationMode": 4,
+   "ContextClassName": "CineDbContext",
+   "ContextNamespace": null,
+   "FilterSchemas": false,
+   "IncludeConnectionString": false,
+   "ModelNamespace": null,
+   "OutputContextPath": null,
+   "OutputPath": "Models",
+   "PreserveCasingWithRegex": true,
+   "ProjectRootNamespace": "testTPIData",
+   "Schemas": null,
+   "SelectedHandlebarsLanguage": 2,
+   "SelectedToBeGenerated": 0,
+   "T4TemplatePath": null,
+   "Tables": [
+      {
+         "Name": "[dbo].[butacas]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[clasificaciones_edad]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[clientes]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[contactos]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[entradas]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[formas_compra]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[formas_pago]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[funciones]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[generos]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[generosXpeliculas]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[idiomas]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[peliculas]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[promociones]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[reservas]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[salas]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[tipos_butacas]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[tipos_contactos]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[tipos_doc]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[tipos_entrada]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[tipos_salas]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[INGRESOS_MENSUALES_X_FUNC]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[PELICULAS_ATP_BARATO_Y_CARO]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[RecuperarCapacidadYEntradasVendidas]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[RecuperarFuncionesNoSubtituladasHoy]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[RecuperarFuncionesSubtituladasHoy]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[SP_PELICULAS_ENT_FUNC]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[SP_RESUMEN_POSICIONES]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[TOP10]",
+         "ObjectType": 1
+      }
+   ],
+   "UiHint": null,
+   "UncountableWords": null,
+   "UseAsyncStoredProcedureCalls": true,
+   "UseBoolPropertiesWithoutDefaultSql": false,
+   "UseDatabaseNames": false,
+   "UseDateOnlyTimeOnly": false,
+   "UseDbContextSplitting": false,
+   "UseDecimalDataAnnotationForSprocResult": true,
+   "UseFluentApiOnly": true,
+   "UseHandleBars": false,
+   "UseHierarchyId": false,
+   "UseInflector": true,
+   "UseLegacyPluralizer": false,
+   "UseManyToManyEntity": false,
+   "UseNoDefaultConstructor": false,
+   "UseNoNavigations": false,
+   "UseNoObjectFilter": false,
+   "UseNodaTime": false,
+   "UseNullableReferences": false,
+   "UsePrefixNavigationNaming": false,
+   "UseSchemaFolders": false,
+   "UseSchemaNamespaces": false,
+   "UseSpatial": false,
+   "UseT4": false
+}

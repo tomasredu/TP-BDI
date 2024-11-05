@@ -1,0 +1,14 @@
+C:\Users\To\source\repos\testTPIData\bin\Debug\net8.0\testTPIData.deps.json
+C:\Users\To\source\repos\testTPIData\bin\Debug\net8.0\testTPIData.runtimeconfig.json
+C:\Users\To\source\repos\testTPIData\bin\Debug\net8.0\testTPIData.dll
+C:\Users\To\source\repos\testTPIData\bin\Debug\net8.0\testTPIData.pdb
+C:\Users\To\source\repos\testTPIData\obj\Debug\net8.0\testTPIData.csproj.AssemblyReference.cache
+C:\Users\To\source\repos\testTPIData\obj\Debug\net8.0\testTPIData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\To\source\repos\testTPIData\obj\Debug\net8.0\testTPIData.AssemblyInfoInputs.cache
+C:\Users\To\source\repos\testTPIData\obj\Debug\net8.0\testTPIData.AssemblyInfo.cs
+C:\Users\To\source\repos\testTPIData\obj\Debug\net8.0\testTPIData.csproj.CoreCompileInputs.cache
+C:\Users\To\source\repos\testTPIData\obj\Debug\net8.0\testTPIData.dll
+C:\Users\To\source\repos\testTPIData\obj\Debug\net8.0\refint\testTPIData.dll
+C:\Users\To\source\repos\testTPIData\obj\Debug\net8.0\testTPIData.pdb
+C:\Users\To\source\repos\testTPIData\obj\Debug\net8.0\testTPIData.genruntimeconfig.cache
+C:\Users\To\source\repos\testTPIData\obj\Debug\net8.0\ref\testTPIData.dll

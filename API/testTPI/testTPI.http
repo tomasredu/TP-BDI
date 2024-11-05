@@ -1,0 +1,6 @@
+@testTPI_HostAddress = http://localhost:5124
+
+GET {{testTPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
